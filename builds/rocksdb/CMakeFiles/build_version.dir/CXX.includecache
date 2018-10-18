@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Mkilaghbian/Desktop/turtlecoin/builds/rocksdb/build_version.cc
+build_version.h
+/Users/Mkilaghbian/Desktop/turtlecoin/builds/rocksdb/build_version.h
+
+/Users/Mkilaghbian/Desktop/turtlecoin/external/rocksdb/util/build_version.h
+

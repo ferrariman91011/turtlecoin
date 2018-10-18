@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Mkilaghbian/Desktop/turtlecoin/src/Platform/OSX/System/Context.c
+string.h
+-
+Context.h
+/Users/Mkilaghbian/Desktop/turtlecoin/src/Platform/OSX/System/Context.h
+
+/Users/Mkilaghbian/Desktop/turtlecoin/src/Platform/OSX/System/Context.h
+stdlib.h
+-
+
